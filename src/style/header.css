@@ -1,0 +1,24 @@
+
+.card-header{
+    font-family: serif;
+    width: 40%;
+    margin-left: 905px;
+    border-radius: 5px; 
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+   
+}
+
+h1{
+  
+   padding-left: 20px;
+   padding-bottom: -20pt;
+
+}
+
+.job{
+    padding-bottom: 15px;
+}
+
+.name{
+    padding-top: 10px;
+}

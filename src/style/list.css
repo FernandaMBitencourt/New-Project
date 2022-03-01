@@ -1,0 +1,43 @@
+
+h2{
+  font-family: serif;
+  font-size: 25px;
+  margin-left: 65px;
+}
+.card {
+    box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.2);
+    transition: 0.3s;
+    width: 40%;
+    border-radius: 5px;
+    margin-top: 15px;
+}
+
+.card:hover {
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+.container {
+    padding: 2px 16px;
+}
+
+.list-item {
+    margin-left: 50%;
+    margin-top: -01%;
+}
+.list-valor {
+    margin-left: 83%;
+    margin-top: -05%;
+}
+
+.product-list{
+    margin-left: 10px;
+    padding-bottom: 30px;
+}
+.label{
+    margin-left: 20px;
+}
+
+.value-section{
+    margin-top: 10px;
+    margin-left: 30px;
+}
